@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Bertrand Baldomero**.\
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang Mahasiswa Jurusan Informatika dari Universitas Multimedia Nusantara
 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 

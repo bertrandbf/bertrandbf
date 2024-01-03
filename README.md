@@ -4,8 +4,6 @@ Perkenalkan nama saya **Bertrand Baldomero**.
 
 Saya seorang Mahasiswa Jurusan Informatika dari Universitas Multimedia Nusantara
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/bertrand-baldomero-ferguson/)ku ya.
 
 <p align="left">
